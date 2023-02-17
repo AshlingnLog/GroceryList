@@ -1,6 +1,6 @@
 # List application in React
 
-Module 13 of MIT xPro Full Stack Bootcamp - React  To Do list
+Module 13 of MIT xPro Full Stack Bootcamp - React  To Do list made into Grocery list
 
 I forked from: https://smoltypo.github.io/List-React/
 
